@@ -1,0 +1,16 @@
+SCORE FOR KNN.PY: 
+
+************* Module hw3-really-lilly.src.knn
+knn.py:5:0: E0401: Unable to import 'numpy' (import-error)
+
+------------------------------------------------------------------
+Your code has been rated at 8.08/10 (previous run: 8.08/10, +0.00)
+
+SCORE FOR TEST_KNN.PY: 
+
+************* Module hw3-really-lilly.tests.test_knn
+test_knn.py:5:0: E0401: Unable to import 'numpy' (import-error)
+test_knn.py:6:0: E0401: Unable to import 'src' (import-error)
+
+------------------------------------------------------------------
+Your code has been rated at 8.48/10 (previous run: 7.42/10, +1.06)
